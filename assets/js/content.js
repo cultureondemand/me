@@ -617,19 +617,41 @@ To better explore the idea of analog experiences that leverage digital tools and
   
   
   {
-    section: "I see myself taking these or cousins of these browser-based worlds into the wilds",
+    section: "Through the summer and into next year I want to be fully into AR research within offline worlds",
 //////////////////////////     icon: "pcy.svg",
     header: "",
     bkgImage: {
-      small: "barnface.png",
-      medium: "barnface.png",
-      large: "barnface.png"
+      small: "chaco21.jpg",
+      medium: "chaco21.jpg",
+      large: "chaco21.jpg"
     },
     body: `
-<strong>Augmented Americana is my genre, I guess.</strong><br />JavaScript, WebGL, HTML5, WebRTC, Projection Mapping<br />
+<strong>I hope to have control of VR to Arduino at this point and into AR in various settings.</strong><br />I want to be able to test multiple forms in sets I've biult as well as natural environments and important cultural sites.<br />
      `
   }
 
+
+,
+  
+
+
+  
+  
+  {
+    section: "Through the summer and into next year I want to be fully into AR research within offline worlds",
+//////////////////////////     icon: "pcy.svg",
+    header: "",
+    bkgImage: {
+      small: "chaco21.jpg",
+      medium: "chaco21.jpg",
+      large: "chaco21.jpg"
+    },
+    body: `
+<strong>I hope to have control of VR to Arduino at this point and into AR in various settings.</strong><br />I want to be able to test multiple forms in sets I've biult as well as natural environments and important cultural sites.<br />
+     `
+  }
+
+  
 
 
 ];
