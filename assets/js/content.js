@@ -571,7 +571,7 @@ header: "",
     },
 
     body:`
-To better explore the idea of analog experiences that leverage digital tools and find a balance of story and storyform that does justice to the idea of taking this technology out of the gallery and into the community.
+To better explore the idea of analog experiences that leverage digital tools and find a balance of story and storyform that does justice to the idea of taking this technology out of the gallery and into the community. I want to put classtime into some weaknesses in Unity and 3D animation to supplement some of my ideas, but also search for classes that may help the offline stoytelling, hardware exolorations and fabrication of worlds as well.
 <br />
  `
 
@@ -608,7 +608,7 @@ To better explore the idea of analog experiences that leverage digital tools and
       large: "hand.jpg"
     },
     body: `
-<strong>It does not have to be straight animatronic off the bat, but it would be good to build something doable with Audrino, and move up to VR controller.</strong><br />First project will probably be a robot hand squeezing a stress ball.
+<strong>It does not have to be straight animatronic off the bat, but it would be good to build something doable with Audrino, and move up to VR controller.</strong><br />First project will probably be a robot hand squeezing a stress ball. 
      `
   },
   
@@ -638,20 +638,19 @@ To better explore the idea of analog experiences that leverage digital tools and
   
   
   {
-    section: "Through the summer and into next year I want to be fully into AR research within offline worlds",
+    section: "Members of my committee are not robots",
 //////////////////////////     icon: "pcy.svg",
     header: "",
     bkgImage: {
-      small: "chaco21.jpg",
-      medium: "chaco21.jpg",
-      large: "chaco21.jpg"
+      small: "animatronic.jpg",
+      medium: "animatronic.jpg",
+      large: "animatronic.jpg"
     },
     body: `
-<strong>I hope to have control of VR to Arduino at this point and into AR in various settings.</strong><br />I want to be able to test multiple forms in sets I've biult as well as natural environments and important cultural sites.<br />
-     `
+<strong>I'm still learning the faculty, but some obvious people stick out due to my focus: Wallace, Rachel, perhaps a Nate or Meredith, or a documentation / storyteller from a different department. .</strong><br />I need to continue to take classes and get to know the faculty and who would get the best out of me. 
   }
 
-  
+
 
 
 ];
