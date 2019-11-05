@@ -3,6 +3,23 @@ var slideData = [
   
  
   {
+    section: "Statement",
+//////////////////     icon: "pcy.svg",
+    header: "",
+ //////////////////////////   video: "yes",
+    bkgImage: {
+      small: "mags1986.jpg",
+      medium: "mags1986.jpg",
+      large: "mags1986.jpg"
+      
+    },
+    body: `
+<h1>My work is inspired by the backyard bonfire storytelling tradition with technology at the center of mesmerizing, immersive environments celebrating extraordinary adventures by ordinary people. I leverage digital tools to create analog, communal experiences with hypnotic interactivity – similar to playing with the sparks in the fire – as you are transported by a storyteller's account or musical accompaniment. My process normally begins by leaving the studio with a camera, mic and laptop and venturing into the serendipitous wilds of backroads outposts, purposefully veering from the common sense of guidebooks and mainstream destinations, like the best bonfire tales do. The media and stories I collect often manifest as Augmented Reality installations, video edits and browser-based storyworlds created to inspire adventure and wanderlust that was instilled in me around many a bonfire growing up.</h1>  
+    `
+  },
+  
+
+  {
     section: "I devour media, music, ideas",
 //////////////////     icon: "pcy.svg",
     header: "",
@@ -14,7 +31,7 @@ var slideData = [
       
     },
     body: `
-<strong>Visual Design Inspo</strong><br />David Carson / Spike Jonze / Glen E. Friedman  
+<strong>Visual Design Inspo</strong><br />David Carson / Spike Jonze / Glen E. Friedman / Mark Gonzales / Raymond Pettibone / Andy Jenkins / Natas Kaupus   
     `
   },
   
@@ -514,7 +531,7 @@ header: "",
 
 
   {
-    section: "Parse Seco Gallery. Taos, NM",
+    section: "I see myself continuing to build on the browser-based storyworlds",
 header: "",
     video: "yes",
    bkgImage: {
@@ -524,7 +541,7 @@ header: "",
     },
 
     body:`
- <strong>Wild Beast App</strong><br />Video, Photos, JavaScript, WebGL, WebRTC, HTML5<br />September 1, 2016<br />Web Based Project<br /><br />Browser-based immersive storytelling adventure about backroads road trip with a Joel Meinholz. We collaborated on capturing field audio, photos and video from sacred and abandoned sites in the American West. I designed and developed this browser app in JavaScript, WebRTC and HTML5.
+ <strong>I can run installations, VR versions, laptop/desktop, mobile, the audio can stand alone, a video edit ... what you need. </strong><br />Video, Photos, JavaScript, WebGL, WebRTC, HTML5<br />
  `
 
   }
@@ -538,6 +555,22 @@ header: "",
   
   
   
+  {
+    section: "I see myself taking these or cousins of these browser-based worlds into the wilds",
+//////////////////////////     icon: "pcy.svg",
+    header: "",
+    bkgImage: {
+      small: "barnface.png",
+      medium: "barnface.png",
+      large: "barnface.png"
+    },
+    body: `
+<strong>Augmented Americana is my genre, I guess.</strong><br />JavaScript, WebGL, HTML5, WebRTC, Projection Mapping<br />
+     `
+  },
+  
+
+
   
   
 
