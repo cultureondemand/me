@@ -963,7 +963,7 @@ font-family: 'Oswald', sans-serif;
   width: 100%;
   min-width: 280px;
 
- 
+ overflow: scroll;
      text-shadow: 1px 1px 1px #000;
      background-color: rgba(0, 0, 0, .9);
     
@@ -998,7 +998,7 @@ font-family: 'Oswald', sans-serif;
   min-width: 400px;
    z-index: 99999;
  
- 
+ overflow: scroll;
  
  
      text-shadow: 1px 1px 1px #000;
