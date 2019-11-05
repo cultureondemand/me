@@ -3,24 +3,24 @@ var slideData = [
   
  
   {
-    section: "Statement",
+    section: "Artist Statement",
 //////////////////     icon: "pcy.svg",
     header: "",
  //////////////////////////   video: "yes",
     bkgImage: {
-      small: "mags1986.jpg",
-      medium: "mags1986.jpg",
-      large: "mags1986.jpg"
+      small: "eric_cade_schoenborn_project.JPG",
+      medium: "eric_cade_schoenborn_project.JPG",
+      large: "eric_cade_schoenborn_project.JPG"
       
     },
     body: `
-<h1>My work is inspired by the backyard bonfire storytelling tradition with technology at the center of mesmerizing, immersive environments celebrating extraordinary adventures by ordinary people. I leverage digital tools to create analog, communal experiences with hypnotic interactivity – similar to playing with the sparks in the fire – as you are transported by a storyteller's account or musical accompaniment. My process normally begins by leaving the studio with a camera, mic and laptop and venturing into the serendipitous wilds of backroads outposts, purposefully veering from the common sense of guidebooks and mainstream destinations, like the best bonfire tales do. The media and stories I collect often manifest as Augmented Reality installations, video edits and browser-based storyworlds created to inspire adventure and wanderlust that was instilled in me around many a bonfire growing up.</h1>  
+<h1>My work is inspired by the backyard bonfire storytelling tradition with technology at the center of mesmerizing, immersive environments. I leverage digital tools to create analog, communal experiences with hypnotic interactivity – similar to playing with the sparks in the fire – as you are transported by a storyteller's account or musical accompaniment. My process normally begins by leaving the studio with a camera, mic and laptop and venturing into the serendipitous wilds of backroads outposts, purposefully veering from the common sense of guidebooks and mainstream destinations, like the best bonfire tales do. The media and stories I collect often manifest as browser-based storyworlds experienced across platforms from Augmented Reality, projection mapping installations, Web VR, video edits created to inspire the adventure and wanderlust.</h1>  
     `
   },
   
 
   {
-    section: "I devour media, music, ideas",
+    section: "My Roots. I devour media, music, ideas",
 //////////////////     icon: "pcy.svg",
     header: "",
  //////////////////////////   video: "yes",
@@ -42,7 +42,7 @@ var slideData = [
 
 
   {
-    section: "I draw and made media. Constantly. I just have to.",
+    section: "My Zone. I draw and made media. Constantly. I just have to.",
 //////////////////     icon: "pcy.svg",
     header: "",
  //////////////////////////   video: "yes",
@@ -60,7 +60,7 @@ var slideData = [
 
 
   {
-    section: "Early on drawing turned into photocopying and collage",
+    section: "My evolution. Early on drawing turned into photocopying and collage",
 //////////////////     icon: "pcy.svg",
     header: "",
  //////////////////////////   video: "yes",
@@ -78,7 +78,7 @@ var slideData = [
 
 
   {
-    section: "Desktop publishing was cheaper",
+    section: "My learning process. Desktop publishing was cheaper",
 //////////////////     icon: "pcy.svg",
     header: "",
  //////////////////////////   video: "yes",
@@ -94,7 +94,7 @@ var slideData = [
   },
   
   {
-    section: "This guy had no idea what I did, but gave me a break",
+    section: "My career. This guy had no idea what I did, but gave me a break",
 //////////////////     icon: "pcy.svg",
     header: "",
  //////////////////////////   video: "yes",
@@ -111,7 +111,7 @@ var slideData = [
   
   
   {
-    section: "Built my documentary background",
+    section: "My formal training. Built my documentary background",
 //////////////////     icon: "pcy.svg",
     header: "",
  //////////////////////////   video: "yes",
@@ -373,7 +373,7 @@ var slideData = [
 
 
   {
-    section: "Miami Design District. Miami, FL",
+    section: "Digital Tools to build Communal Analog Experiences",
 //////////////////     icon: "pcy.svg",
     header: "",
  //////////////////////////   video: "yes",
@@ -384,7 +384,9 @@ var slideData = [
       
     },
     body: `
- <strong>Phenomenal Radness</strong><br />Processing, TUIO, MadMapper, Videography<br />120'x18'<br />June 2013<br />Miami Design District<br /><br />Created in partnership with NikeSB and MIA Skateshop as a popup immersive experience in the Miami Design District. I developed the piece in Processing and incorporated Microsoft Kinects using TUIO for a motion-reactive component. The piece was mapped across the space using MadMapper into 6 projectors placed and hung in collaboration with Ed Selego.
+ <strong>Experiential background useful. I'm always thinking about outcomes, audience and problems I'm trying to solve through my work. Normally Playful.
+
+</strong><br />After so much serious work, I want to make beautiful fun experiences. https://vimeo.com/71395335
     `
   },
   
@@ -395,7 +397,7 @@ var slideData = [
 
 
   {
-    section: "Art Basel. Miami Beach, FL",
+    section: "Collaboration with musicians a natural fit.",
 //////////////////     icon: "pcy.svg",
     header: "",
  //////////////////////////   video: "yes",
@@ -414,33 +416,13 @@ var slideData = [
   
   
   
-
-
-  {
-    section: "The Bacardi Building. Miami, FL",
-//////////////////     icon: "pcy.svg",
-    header: "",
- //////////////////////////   video: "yes",
-    bkgImage: {
-      small: "youngarts.jpg",
-      medium: "youngarts.jpg",
-      large: "youngarts.jpg"
-      
-    },
-    body: `
- <strong>Outside the Box: Jason Moran, Jazz & Skateboarding</strong><br />JavaScript, WebGL, Projection Mapping<br />36' x 24'<br />Feb 6, 2016<br />YoungArts Campus<br /><br />Created a sound reactive projection mapping installation inspired by the Spike Jonze/Mark Gonzalez masterpiece, Video Days. Built a 3D version of the video in JavaScript and HTML5 to be projected on a building across the plaza, designed to respond to live Jazz performed by Jason Moran as he and his band improvised to skateboarders skating a halfpipe in the plaza of Miami's YoungArts campus.
-    `
-  },
-  
- 
-   
   
   
   
 
 
   {
-    section: "knightfoundation.org/features/storytellingexpeditions/",
+    section: "Web technologies opened up the opportunity to innovate storyform",
 //////////////////     icon: "pcy.svg",
     header: "",
  //////////////////////////   video: "yes",
@@ -451,39 +433,40 @@ var slideData = [
       
     },
     body: `
- <strong>Interactive Storytelling Expeditions</strong><br />Creative Direction, Art Direction, Concepting, Writing, Design, Illustration, JavaScript, HTML5, Audio<br />December 1, 2014<br />Web Based Project<br /><br />A Knight Foundation original report I created to demonstrate one approach to immersive storytelling for organizations and publications.
+ <strong>Interactive Storytelling Expeditions</strong><br />knightfoundation.org/features/storytellingexpeditions/<br />Web Based Project<br /><br />A Knight Foundation original report I created to demonstrate one approach to immersive storytelling for organizations and publications.
     `
   },
   
   
-  
+   
   
 
 
   {
-    section: "searchlightsandsunglasses.org",
+    section: "Fuck it, I quit (my day job).",
 //////////////////     icon: "pcy.svg",
     header: "",
  //////////////////////////   video: "yes",
     bkgImage: {
-      small: "searchlightsandsunglasses.png",
-      medium: "searchlightsandsunglasses.png",
-      large: "searchlightsandsunglasses.png"
+      small: "youngarts.jpg",
+      medium: "youngarts.jpg",
+      large: "youngarts.jpg"
       
     },
     body: `
- <strong>Searchlights and Sunglasses</strong><br />Creative Direction, Art Direction, Concepting<br />October 2013<br />Web Based Project<br /><br />Unique HTML5 journalism learning tool created in collaboration with author and journalism innovator Eric Newton.
+ <strong>Decided to full time work on my art practice.</strong><br />
     `
   },
   
-  
+ 
+   
   
 
 
   
   
     {
-    section: "Deauville Beach Resort. Miami Beach, FL",
+    section: "Collecting stories and building storytelling experiences",
 //////////////////////////     icon: "pcy.svg",
     header: "",
     video: "yes",
@@ -493,7 +476,7 @@ var slideData = [
       name:"7"
     },
     body: `
- <strong>My Good, Good Friend App</strong><br />Videography, Photography, Field Audio, JavaScript, WebGL, HTML5, WebVR<br />February 26, 2016 — February 27, 2016<br />Filmgate Interactive Creative Festival<br /><br />Sound-reactive 3D storyword and mobile VR experience designed for Miami transmedia festival, Filmgate.
+ <strong>Several stories I was chasing with a some theories I wanted to test out.</strong><br />Wanted to build interactive storyworlds that were more like pop-up books than games.
 `
   },
   
@@ -507,7 +490,7 @@ var slideData = [
 
 
   {
-    section: "Parse Seco Gallery. Taos, NM",
+    section: "Interactive experiences across platforms",
 header: "",
     video: "yes",
    bkgImage: {
@@ -517,7 +500,9 @@ header: "",
     },
 
     body:`
- <strong>Wild Beast Installation</strong><br />Videography, Photography, JavaScript, WebGL, HTML5, WebRTC, Projection Mapping<br />96' x 12'<br />September 1 - October 1, 2016<br />Parse Seco<br /><br />Augmented reality storytelling installation I developed in JavaScript, with footage shot in collaboration with Miami photographer Joel Meinholz. Mounted 3 projectors, a webcam, microphone in the space and mapped in MadMapper.
+ <strong>Mobile, laptop/desktop, VR, installation. Leveraging my background and training in documentation:
+  Photo, Storyfinding, Editing, Audio, Video
+</strong><br />Videography, Photography, JavaScript, WebGL, HTML5, WebRTC, Projection Mapping<br />
  `
 
   }
@@ -577,7 +562,7 @@ header: "",
  
 
   {
-    section: "www.ericcad.es",
+    section: "Goal for my thesis is to zero in on a storytelling experience to test.",
 header: "",
     bkgImage: {
       small: "3dglasses.jpg",
@@ -586,13 +571,64 @@ header: "",
     },
 
     body:`
-Thanks so much for taking a look at this select collection of my work. To see a complete portfolio and resume, please visit <a href="//www.ericcad.es" style="background-color:#000;">my complete personal site</a>
+To better explore the idea of analog experiences that leverage digital tools and find a balance of story and storyform that does justice to the idea of taking this technology out of the gallery and into the community.
 <br />
  `
 
   }
 
+  ,
   
+  
+  {
+    section: "Major milestones include exploring VR, AR and robotics more thoroughly",
+//////////////////////////     icon: "pcy.svg",
+    header: "",
+    bkgImage: {
+      small: "chainsaw.jpg",
+      medium: "chainsaw.jpg",
+      large: "chainsaw.jpg"
+    },
+    body: `
+<strong>I'm going to begin with a VR chainsaw art experience.</strong><br />Hopefully I can take this to robotics, even if in a tiny way, like a dremel or something. The dream is Check-E-Cheese making chainsaw art from a VR controller.
+     `
+  },
+  
+
+
+  
+  
+  {
+    section: "More milestones: I want to 3D print some robot parts to get used to this medium",
+//////////////////////////     icon: "pcy.svg",
+    header: "",
+    bkgImage: {
+      small: "hand.jpg",
+      medium: "hand.jpg",
+      large: "hand.jpg"
+    },
+    body: `
+<strong>It does not have to be straight animatronic off the bat, but it would be good to build something doable with Audrino, and move up to VR controller.</strong><br />First project will probably be a robot hand squeezing a stress ball.
+     `
+  },
+  
+
+
+  
+  
+  {
+    section: "I see myself taking these or cousins of these browser-based worlds into the wilds",
+//////////////////////////     icon: "pcy.svg",
+    header: "",
+    bkgImage: {
+      small: "barnface.png",
+      medium: "barnface.png",
+      large: "barnface.png"
+    },
+    body: `
+<strong>Augmented Americana is my genre, I guess.</strong><br />JavaScript, WebGL, HTML5, WebRTC, Projection Mapping<br />
+     `
+  }
 
 
 
