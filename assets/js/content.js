@@ -1,74 +1,179 @@
 var slideData = [
 
   
+ 
   {
-    section: "The National Mall. Washington, DC",
-//////////////////////////     icon: "pcy.svg",
-    header: "",
-    video: "yes",
-   bkgImage: {
-     wm: "assets/images/bkg/catharsis.webm",
-       mp: "assets/images/bkg/catharsis.mp4",
-      name:"1"
-    },
-    body: `
-<strong>Catharsis on the Mall</strong><br />JavaScript, WebGL, HTML5, Video, WebRTC, Projection Mapping<br />90' x 20'<br />November 9-11, 2018<br />National Mall<br /><br /> Developed Javascript browser app in Three.js to drive installation created with 3 projectors hung from the frame of a dome constructed in the center of the National Mall. Mapped the app using MadMapper.  
-    `
-  },
-  
-  
-  
-
-  {
-    section: "K Street. Washington, DC ",
+    section: "I devour media, music, ideas",
 //////////////////     icon: "pcy.svg",
     header: "",
  //////////////////////////   video: "yes",
     bkgImage: {
-      small: "drcbf_insta.jpg",
-      medium: "projecitonsdc.jpg",
-      large: "projecitonsdc.jpg"
+      small: "mags1986.jpg",
+      medium: "mags1986.jpg",
+      large: "mags1986.jpg"
       
     },
     body: `
-<strong>Guerilla Kavanaugh Projections</strong><br />Videography, Art Direction, Projection Mapping<br />42' x 42'<br />October 5, 2018<br />Washington, DC<br /><br /> Outdoor mobile projection mapping on landmarks along the power center of DC during the Brett Kavanaugh confirmation hearings.  
+<strong>Visual Design Inspo</strong><br />David Carson / Spike Jonze / Glen E. Friedman  
     `
   },
   
 
   
-  
-  {
-    section: "Eaton House. Washington, DC",
-//////////////////////////     icon: "pcy.svg",
-    header: "",
-    video: "yes",
-   bkgImage: {
-     wm: "assets/images/bkg/moyaone.webm",
-       mp: "assets/images/bkg/moyaone.mp4",
-      name:"2"
-    },
-    body: `
-<strong>Piscataway 360</strong><br />Videography, Field Audio, JavaScript, WebGL, HTML5, WebRTC, Projection Mapping<br />86' x 14'<br />September 28-30, 2018<br />Human Progress Festival<br /><br />Immersive storytelling installation created in collaboration with Sebi Medina-Tayac to celebrate the Piscataway Indian Nation of the Washington, DC area. I shot video and captured field audio from ancestral Piscataway land, designed a storyworld in JavaScript and WebGL, mounted 3 projectors and mapped the experience in MadMapper. 
-    `
-  },
-  
+   
 
 
 
   {
-    section: "Pickathon Music Festival. Portland, OR",
+    section: "I draw and made media. Constantly. I just have to.",
 //////////////////     icon: "pcy.svg",
     header: "",
  //////////////////////////   video: "yes",
     bkgImage: {
-      small: "2018_2018__Rob_Kerr.23.jpg",
-      medium: "2018_2018__Rob_Kerr.23.jpg",
-      large: "2018_2018__Rob_Kerr.23.jpg"
+      small: "zinespreadstickers.jpg",
+      medium: "zinespreadstickers.jpg",
+      large: "zinespreadstickers.jpg"
       
     },
     body: `
-<strong>Pickathon Cosmos</strong><br />Curation, JavaScript, WebGL, HTML5, WebRTC, Projection Mapping<br />196' x 132'<br />August 3-5, 2018<br />Pickathon Music Festival<br /><br /> Co-curated digital art program and led the setup and execution of projection mapping original content within a custom designed venue at this innovative Pacific Northwest music festival. 
+<strong>Zines, Mix tapes, flyers, sketches</strong><br />This was how my friend group organized. It continued to evolve with graffiti, and a whole movement of what people call makers now. Evolved as we got access to video cameras and better film cameras.
+    `
+  },
+  
+
+
+  {
+    section: "Early on drawing turned into photocopying and collage",
+//////////////////     icon: "pcy.svg",
+    header: "",
+ //////////////////////////   video: "yes",
+    bkgImage: {
+      small: "zine1992.jpg",
+      medium: "zine1992.jpg",
+      large: "zine1992.jpg"
+      
+    },
+    body: `
+<strong>Evolving</strong><br /> Very freestyle, fast remixes of media
+    `
+  },
+  
+
+
+  {
+    section: "Desktop publishing was cheaper",
+//////////////////     icon: "pcy.svg",
+    header: "",
+ //////////////////////////   video: "yes",
+    bkgImage: {
+      small: "civilization.jpg",
+      medium: "civilization.jpg",
+      large: "civilization.jpg"
+      
+    },
+    body: `
+<strong>Moving into digital made total sense to me</strong><br />I kept making with media, and developing new aesthetics and skills. 
+    `
+  },
+  
+  {
+    section: "This guy had no idea what I did, but gave me a break",
+//////////////////     icon: "pcy.svg",
+    header: "",
+ //////////////////////////   video: "yes",
+    bkgImage: {
+      small: "smokingthomassan_605.jpg",
+      medium: "smokingthomassan_605.jpg",
+      large: "smokingthomassan_605.jpg"
+      
+    },
+    body: `
+<strong>News Orgs needed designers of everything and often it was former artists who could do that</strong><br />I made websites, graphics, interactive, illustrations, fixed printers. 
+    `
+  },
+  
+  
+  {
+    section: "Built my documentary background",
+//////////////////     icon: "pcy.svg",
+    header: "",
+ //////////////////////////   video: "yes",
+    bkgImage: {
+      small: "imffight.jpg",
+      medium: "imffight.jpg",
+      large: "imffight.jpg"
+      
+    },
+    body: `
+<strong>Kept learning and evolving</strong><br />Curation, JavaScript, WebGL, HTML5, WebRTC, Projection Mapping<br />196' x 132'<br />August 3-5, 2018<br />Pickathon Music Festival<br /><br /> Co-curated digital art program and led the setup and execution of projection mapping original content within a custom designed venue at this innovative Pacific Northwest music festival. 
+    `
+  },
+  
+
+
+  {
+    section: "Always took what I was learning out of my day job for art missions.",
+//////////////////////////     icon: "pcy.svg",
+    header: "",
+    bkgImage: {
+      small: "nitrowv.jpg",
+      medium: "nitrowv.jpg",
+      large: "nitrowv.jpg"
+    },
+    body: `
+<strong>Backroads expoloring and documentation circa 1999</strong><br />  
+     `
+  },
+  
+
+  {
+    section: "Started getting crazy serious about photography",
+//////////////////////////     icon: "pcy.svg",
+    header: "",
+    bkgImage: {
+      small: "usahonduras.jpg",
+      medium: "usahonduras.jpg",
+      large: "usahonduras.jpg"
+    },
+    body: `
+<strong>Had great teachers and passes to everything</strong><br /> And free film developing, so I shot all the time.  
+     `
+  },
+  
+
+
+  {
+    section: "And then this day happened",
+//////////////////////////     icon: "pcy.svg",
+    header: "",
+    bkgImage: {
+      small: "911photos.jpg",
+      medium: "911photos.jpg",
+      large: "911photos.jpg"
+    },
+    body: `
+<strong>9/11 was a weird career turning point</strong><br />
+     `
+  },
+  
+
+
+
+
+
+
+  {
+    section: "Started making more impact based media",
+//////////////////////////     icon: "pcy.svg",
+    header: "",
+    video: "yes",
+   bkgImage: {
+    //////////// wm: "assets/images/bkg/zubair.webm",
+       mp: "assets/images/bkg/idc.mp4",
+      name:"3"
+    },
+    body: `
+<strong>Multimedia was the word we used</strong><br />Video, JavaScript, WebGL, WebRTC, Projection Mapping<br />36' x 12'<br />March 13-18, 2017<br />Borscht Film Festival<br /><br />Clip from transmedia documentary created with support from Borscht Film Festival. I wrote, directed and edited the documentary and filmed with a small crew of Miami filmmakers supporting me during a 1 week shoot on Loop Road in Big Cypress Swamp. Released as projection mapping installation at Borsch Film Festival 2017. 
     `
   },
   
@@ -86,26 +191,6 @@ var slideData = [
     body: `
 <strong>Augmented Americana</strong><br />JavaScript, WebGL, HTML5, WebRTC, Projection Mapping<br />96' x 52'<br />June 7, 2018<br />Brethren, MI<br /><br />Long exposure photo of solo, off-the-grid projection mapping of audio and video responsive web app mapped onto a backwoods barn in Northern Michigan.   
      `
-  },
-  
-
-
-
-
-
-  {
-    section: "New World Center for the Arts. Miami Beach, FL",
-//////////////////////////     icon: "pcy.svg",
-    header: "",
-    video: "yes",
-   bkgImage: {
-     wm: "assets/images/bkg/idc.webm",
-       mp: "assets/images/bkg/idc.mp4",
-      name:"3"
-    },
-    body: `
-<strong>I Don't Care if I Do Die Do</strong><br />Video, JavaScript, WebGL, WebRTC, Projection Mapping<br />36' x 12'<br />March 13-18, 2017<br />Borscht Film Festival<br /><br />Clip from transmedia documentary created with support from Borscht Film Festival. I wrote, directed and edited the documentary and filmed with a small crew of Miami filmmakers supporting me during a 1 week shoot on Loop Road in Big Cypress Swamp. Released as projection mapping installation at Borsch Film Festival 2017. 
-    `
   },
   
 
