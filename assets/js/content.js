@@ -205,7 +205,7 @@ var slideData = [
     video: "yes",
    bkgImage: {
     //////////// wm: "assets/images/bkg/zubair.webm",
-       mp: "assets/images/bkg/idc.mp4",
+       mp: "assets/images/bkg/zubair.mp4",
       name:"1"
     },
     body: `
