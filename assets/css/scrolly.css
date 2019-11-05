@@ -1205,7 +1205,11 @@ background:none !important;
 
 
 
+h1 {
 
+
+  font-size: 3em;
+}
 
 
 
@@ -1420,7 +1424,10 @@ background:none !important;
 
 
 
+#step-0 .step-content {
 
+  width:100% !important;
+}
 
 
 
